@@ -280,4 +280,9 @@ body {
   .separator {
     width: 250px;
   }
+
+  .boton{
+    position: relative;
+    margin-top: 50px;
+  }
 }

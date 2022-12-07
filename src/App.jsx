@@ -14,7 +14,6 @@ function App() {
       .then(res => setCharacterInfo(res.data))
   }, [])
 
-  console.log(characterInfo)
 
   // BUSCADOR
   const [text, setText] = useState('');
